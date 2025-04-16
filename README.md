@@ -1,1 +1,1 @@
-# -Desafio-Alura-Store---An-lise-de-Vendas-e-Rendimento-de-Lojas
+# -Desafio-Alura-Store - Análise-de-Vendas-e-Rendimento-de-Lojas
